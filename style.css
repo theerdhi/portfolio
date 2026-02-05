@@ -7,7 +7,7 @@
 
 /* Body */
 body {
-    background: #f5f7fa;
+    background: #e0e5ec;
 }
 
 /* Navbar */
@@ -121,7 +121,12 @@ nav ul li a:hover {
 
 /* Light background */
 .bg {
-    background: #ffffff;
+    background: #f0f4f8;
+}
+
+/* About Section Background */
+#about {
+    background: linear-gradient(135deg, #ffffff, #eef2f7);
 }
 
 /* About */
@@ -177,7 +182,7 @@ nav ul li a:hover {
 }
 
 .project {
-    background: white;
+    background: #fafcff;
     padding: 25px;
     border-radius: 15px;
 
